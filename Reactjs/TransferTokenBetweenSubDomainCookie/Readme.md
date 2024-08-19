@@ -37,3 +37,5 @@ const cookies = new Cookies(null, { path: '/' });
 
 const transferToken = cookies.get('transfer');
 ```
+
+You can open the development server with port number as well, meaning `apps.localtest.me:4300` will work.
