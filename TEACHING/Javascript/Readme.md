@@ -18,3 +18,5 @@ If there is a video for something, use the video for sure
 ## Reference links:
 
 1. [roadmap.sh/javascript](https://roadmap.sh/javascript)
+
+Tell candidates problems in Hacker rank & leet code
