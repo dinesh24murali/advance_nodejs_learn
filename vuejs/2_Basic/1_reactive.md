@@ -9,11 +9,11 @@ const state = reactive({ count: 0 })
 ```
 
 Usage in template:
-
+```vue
 <button @click="state.count++">
   {{ state.count }}
 </button>
-
+```
 # Limitations of reactive()
 
 The reactive() API has a few limitations:
