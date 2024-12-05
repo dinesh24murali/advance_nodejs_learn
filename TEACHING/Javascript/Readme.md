@@ -1,5 +1,7 @@
 # Javascript
 
+Follow [this excel](https://reckonsystech-my.sharepoint.com/:x:/r/personal/dinesh_reckonsys_com/_layouts/15/Doc.aspx?sourcedoc=%7B37F1293D-B0DA-4802-904B-7ED519ECFF89%7D&file=Javascript%20curriculum.xlsx&action=default&mobileredirect=true) sheet.
+
 ## Requirements:
 
 1. Make a fresher with either some amount of experience or no experience learn Javascript from scratch.
