@@ -103,5 +103,3 @@ Here are some commonly used verbs in their past tense forms:
 3. **Interrogative Sentence**  
    - क्या उसने खाना खाया? *(Kya usne khaana khaya?)*  
      (Did he eat food?)  
-
-Let me know if you'd like more practice or additional clarification! 😊
